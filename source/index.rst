@@ -1,4 +1,4 @@
-O.O.B.A.A. Specification Proposal
+OOBAA Specification Proposal
 =================================
 
 Contents:

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# O.O.B.A.A. documentation build configuration file, created by
+# OOBAA documentation build configuration file, created by
 # sphinx-quickstart on Mon Nov 12 13:01:01 2012.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'O.O.B.A.A.'
+project = u'OOBAA'
 copyright = u'2012, Shane R. Spencer'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -103,10 +103,10 @@ html_theme = 'sphinxdoc'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "O.O.B.A.A. Specification Proposal"
+html_title = "OOBAA Specification Proposal"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = "O.O.B.A.A."
+html_short_title = "OOBAA"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -183,7 +183,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'OOBAA.tex', u'O.O.B.A.A. Documentation',
+  ('index', 'OOBAA.tex', u'OOBAA Documentation',
    u'Shane R. Spencer', 'manual'),
 ]
 
@@ -213,7 +213,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'oobaa', u'O.O.B.A.A. Documentation',
+    ('index', 'oobaa', u'OOBAA Documentation',
      [u'Shane R. Spencer'], 1)
 ]
 
@@ -227,7 +227,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'OOBAA', u'O.O.B.A.A. Documentation',
+  ('index', 'OOBAA', u'OOBAA Documentation',
    u'Shane R. Spencer', 'OOBAA', 'One line description of project.',
    'Miscellaneous'),
 ]
