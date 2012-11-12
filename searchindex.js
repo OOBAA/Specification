@@ -1,1 +1,1 @@
-Search.setIndex({objects:{},terms:{index:0,search:0,specif:0,indic:0,content:0,tabl:0,page:0,propos:0},objtypes:{},titles:["O.O.B.A.A. Specification Proposal"],objnames:{},filenames:["index"]})
+Search.setIndex({objects:{},terms:{index:0,search:0,oobaa:0,specif:0,indic:0,content:0,tabl:0,page:0,propos:0},objtypes:{},titles:["OOBAA Specification Proposal"],objnames:{},filenames:["index"]})
